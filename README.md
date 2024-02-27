@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Esma Betül</h1>
 <h3 align="center">A passionate Full Stack Developer from Turkey.As a Junior Software Developer who is detail-oriented and eager to learn, I am trying to gain knowledge and experience in developing web-based applications. I am passionate about gaining experience in front-end and back-end development and producing high-quality, user-friendly applications. I have a deep passion for technology and advanced teamwork skills. I'm excited to further my career in web development and see how technology impacts the world.</h3>
-<img align="center" width:"100px" src="https://i.pinimg.com/564x/72/ec/76/72ec765c178ef9b6979992eeae9d8eda.jpg"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
